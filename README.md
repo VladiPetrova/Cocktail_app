@@ -45,7 +45,7 @@ A simple web app for searching cocktails by name. It uses the public [TheCocktai
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - **PHP** – backend logic and API requests.
 - **JavaScript (AJAX)** – dynamic data fetching and rendering without reloading.
